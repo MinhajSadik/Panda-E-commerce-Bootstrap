@@ -1,0 +1,19 @@
+h1, p, h3{
+    color:black;
+}
+.pandaCards{
+    border:0!important;
+}
+.pandaCardFooters{
+    background-color:white!important;
+    border:0px;
+
+
+}
+.categories img{
+    width:100px;
+}
+.panda-slide .carousel-item{
+    background-color:#fceae8;
+    border-radius:2em;
+}
